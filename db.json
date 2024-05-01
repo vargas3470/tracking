@@ -1,0 +1,51 @@
+{
+  "procesosRemodelacion": [
+    {
+      "nombreContratista": "Francisco Javier Montaño",
+      "idProyecto": 1,
+      "requerimientos": {
+        "tituloTrabajo": "Cambio de piso y pintura de habitación en Miraflores",
+        "descripcionTrabajo": "Cambio de piso y pintura de un cuarto de 12m²",
+        "listaRequerimientos": [
+          "Permiso de contruccion no requerido",
+          "Debe tener licencia de construcción y seguro de responsabilidad civil",
+          "Retiro de piso antiguo",
+          "Parchado de agujeros menores en las paredes",
+          "Cerámica de 60x60 cm color gris claro",
+          "Pintura blanca mate",
+          "Horario de trabajo lunes a viernes 9:00am - 4:00pm",
+          "Debe dejar el cuarto limpio y ordenado al finalizar el trabajo.",
+          "Fecha de inicio y finalización:15 de mayo de 2024 al 25 de mayo de 2024",
+          "Presupuesto:S/. 10,000"
+
+        ],
+        "aceptado": false
+      },
+      "visitaPrevia": {
+        "costo": 145.00,
+        "detallesAdicionales": "5 personas, Ubicacion: Calle Los Girasoles 456, Miraflores, Lima, Peru"
+      },
+      "cotizacion": {
+        "opciones": [
+          {
+            "descripcion": "Economica",
+            "costo": 5000,
+            "detalle": "Ceramica San Lorenzo Linea economica s/. 30m², pintura Renner Linea economica s/.20/galon, albañil s/. 150/dia, pintor s/. 120/dia"
+          },
+          {
+            "descripcion": "Intermedia",
+            "costo": 7500,
+            "detalle": "Ceramica Cisa o Ceramica Lafarge s/. 50m², pintura Montana o Pinturas Latex s/.30/galon, albañil s/. 150/dia, pintor s/. 120/dia"
+          },
+          {
+            "descripcion": "Premium",
+            "costo": 10000,
+            "detalle": "Ceramica Duratex s/. 80m², pintura Sherwin-Williams o Pinturas PPG s/.40/galon, albañil s/. 150/dia, pintor s/. 120/dia"
+          }
+        ]
+      },
+      "aprobacionProyecto": true
+    }
+
+  ]
+}
